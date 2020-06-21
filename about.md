@@ -6,7 +6,7 @@ permalink: /about/
 
 Vincent is an avid Full-Stack developer from Indonesia.
 
-He primarily focuses on NodeJS, React, Laravel, and Flutter
+He primarily focuses on Node, Deno, React, Laravel, and Flutter
 frameworks.
 
 ### Links
