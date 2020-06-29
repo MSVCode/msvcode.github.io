@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Getting Started with Dino
+title: Mulai Menggunakan Deno
 ---
+
+Apakah Dino itu? Mengapa akhir-akhir ini mulai terdengar nama itu? Di post ini kita akan mulai melakukan setup Dino dan mencoba membuat server Dino sederhana.
 
 # Latar
 Dino adalah runtime JavaScript yang dibuat oleh Ryan Dahl. Ryan adalah developer original NodeJS yang sudah sering terdengar saat ini.
