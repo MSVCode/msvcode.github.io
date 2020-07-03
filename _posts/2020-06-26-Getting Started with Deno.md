@@ -3,10 +3,10 @@ layout: post
 title: Mulai Menggunakan Deno
 ---
 
-Apakah Dino itu? Mengapa akhir-akhir ini mulai terdengar nama itu? Di post ini kita akan mulai melakukan setup Dino dan mencoba membuat server Dino sederhana.
+Apakah Deno itu? Mengapa akhir-akhir ini mulai terdengar nama itu? Di post ini kita akan mulai melakukan setup Deno dan mencoba membuat server Deno sederhana.
 
 # Latar
-Dino adalah runtime JavaScript yang dibuat oleh Ryan Dahl. Ryan adalah developer original NodeJS yang sudah sering terdengar saat ini.
+Deno adalah runtime JavaScript yang dibuat oleh Ryan Dahl. Ryan adalah developer original NodeJS yang sudah sering terdengar saat ini.
 
 Di tahun 2018, Ryan menyampaikan hal-hal yang ia sesali di NodeJS, sekaligus memperkenalkan runtime baru untuk mengatasi masalah-masalah Nodejs. Video lengkapnya dapat dilihat di: [Youtube](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
